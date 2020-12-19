@@ -3,7 +3,7 @@
 
 I am a Computer Science student Passionate with developing Game, as well as playing them.
 
-#### Current Projects : 
+### Current Projects : 
  - I am working on a game of [TicTacToe](https://github.com/Joknaa/TicTacToe) Using C# and Unity game engine.
 
 - I am learning Java and C#.
@@ -25,6 +25,8 @@ I am a Computer Science student Passionate with developing Game, as well as play
 
 - 📫 How to reach me: 
 <br>
+
 Linkedin  : [MohammadLaadidaoui](https://www.linkedin.com/in/mohammadlaadidaoui/)
  <br>
+ 
 Facebook : [OknaaKun](https://www.facebook.com/OknaaKun/)
