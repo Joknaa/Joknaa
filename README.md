@@ -1,7 +1,7 @@
 ## Yoo , Oknaa here ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I am a Computer Science student Passionate with developing Game, as well as playing them.
+I am a Computer Science student Passionate with developing Game, as well as playing them 😏
 
 #### Current Projects : 
  - I am working on a game of [TicTacToe](https://github.com/Joknaa/TicTacToe) Using C# and Unity game engine.
@@ -9,7 +9,7 @@ I am a Computer Science student Passionate with developing Game, as well as play
 - I am learning Java and C#.
 
 
-![](https://img.shields.io/badge/Editor-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
+![](https://img.shields.io/badge/IDE-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
 ![](https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey)
 <br>
 
