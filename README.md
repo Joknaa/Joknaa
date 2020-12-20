@@ -20,7 +20,7 @@ I am a Computer Science student Passionate with developing Game, as well as play
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joknaa&show_icons=true&theme=material-palenight" />
 </a>
 
-[![TicTacToe Repo](https://github-readme-stats.vercel.app/api/pin/?username=joknaa&repo=tictactoe&theme=material-palenight)](https://github.com/joknaa/TicTacToe)
+[![TicTacToe Repo](https://github-readme-stats.vercel.app/api/pin/?username=joknaa&repo=tictactoe&theme=material-palenight&discreption=)](https://github.com/joknaa/TicTacToe)
 
 
 - 📫 How to reach me: 
