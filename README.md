@@ -20,10 +20,10 @@ I am a Computer Science student Passionate with developing Game, as well as play
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joknaa&show_icons=true&theme=material-palenight" />
 </a>
 <br>
-<a href="https://github.com/joknaa">
+<a href="https://github.com/Joknaa/TicTacToe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joknaa&repo=tictactoe&theme=material-palenight&discreption=" />
 </a>
-<a href="https://github.com/joknaa">
+<a href="https://github.com/Joknaa/GameProject_Ookun">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joknaa&repo=GameProject_Ookun&theme=material-palenight&discreption=" />
 </a>
 <br>
