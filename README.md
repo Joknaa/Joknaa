@@ -7,11 +7,11 @@ I am a Computer Science student Passionate with developing Game, as well as play
 
 ## Stuff i wanna learn : 
 - Java and C#.
-- S.O.L.I.D Principles.
+- S.O.L.I.D principles of Object Oriented design.
 - Test-Driven Developement.
 
-## How to reach me : <br>
-Linkedin : [MohammadLaadidaoui](https://www.linkedin.com/in/mohammadlaadidaoui/) <br>
+## How to reach me :
+Linked-in : [MohammadLaadidaoui](https://www.linkedin.com/in/mohammadlaadidaoui/) <br>
 Facebook : [OknaaKun](https://www.facebook.com/OknaaKun/)
 
 ![](https://img.shields.io/badge/IDE-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
