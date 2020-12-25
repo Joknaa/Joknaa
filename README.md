@@ -1,13 +1,18 @@
 # Yoo , Oknaa here ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
 I am a Computer Science student Passionate with developing Game, as well as playing them 😏
 
 ## Current Projects : 
  - I am working on a game of [TicTacToe](https://github.com/Joknaa/TicTacToe) Using C# and Unity game engine.
 
-- I am learning Java and C#.
+## Stuff i wanna learn : 
+- Java and C#.
+- S.O.L.I.D Principles.
+- Test-Driven Developement.
 
+## How to reach me : <br>
+Linkedin : [MohammadLaadidaoui](https://www.linkedin.com/in/mohammadlaadidaoui/) <br>
+Facebook : [OknaaKun](https://www.facebook.com/OknaaKun/)
 
 ![](https://img.shields.io/badge/IDE-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
 ![](https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey)
@@ -26,8 +31,3 @@ I am a Computer Science student Passionate with developing Game, as well as play
 <a href="https://github.com/Joknaa/GameProject_Ookun">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joknaa&repo=GameProject_Ookun&theme=material-palenight&discreption=" />
 </a>
-<br>
-
-- 📫 How to reach me: <br>
-Linkedin  : [MohammadLaadidaoui](https://www.linkedin.com/in/mohammadlaadidaoui/) <br>
-Facebook : [OknaaKun](https://www.facebook.com/OknaaKun/)
