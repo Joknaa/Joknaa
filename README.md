@@ -11,11 +11,11 @@ I am a Computer Science student Passionate with developing Game, as well as play
 - Test-Driven Developement.
 
 ## How to reach me :
-LinkedIn : [MohammadLaadidaoui](https://www.linkedin.com/in/mohammadlaadidaoui/) <br>
-Facebook : [OknaaKun](https://www.facebook.com/OknaaKun/) <br>
-Instagram : [Oknaa_Kun](https://www.instagram.com/oknaa_kun/) <br>
-Hackerrank : [Oknaa](https://www.hackerrank.com/Oknaa) <br>
-HyperSkill : [Oknaa](https://hyperskill.org/profile/70430298) <br>
+- LinkedIn : [MohammadLaadidaoui](https://www.linkedin.com/in/mohammadlaadidaoui/) <br>
+- Facebook : [OknaaKun](https://www.facebook.com/OknaaKun/) <br>
+- Instagram : [Oknaa_Kun](https://www.instagram.com/oknaa_kun/) <br>
+- Hackerrank : [Oknaa](https://www.hackerrank.com/Oknaa) <br>
+- HyperSkill : [Oknaa](https://hyperskill.org/profile/70430298) <br>
 
 ![](https://img.shields.io/badge/IDE-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
 ![](https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey)
