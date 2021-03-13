@@ -28,8 +28,8 @@ I am a Computer Science student Passionate with developing Game, as well as play
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joknaa&show_icons=true&theme=material-palenight" />
 </a>
 <br>
-<a href="https://github.com/Joknaa/TicTacToe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joknaa&repo=tictactoe&theme=material-palenight&discreption=" />
+<a href="https://github.com/Joknaa/Multimedia_Library">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joknaa&repo=Multimedia_Library&theme=material-palenight&discreption=" />
 </a>
 <a href="https://github.com/Joknaa/Ookun-s_Adventure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joknaa&repo=Ookun-s_Adventure&theme=material-palenight&discreption=" />
