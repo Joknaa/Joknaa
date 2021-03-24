@@ -3,7 +3,7 @@
 I am a Computer Science student Passionate with developing Game, as well as playing them 😏
 
 ## Current Projects : 
- - I am working on a game of [TicTacToe](https://github.com/Joknaa/TicTacToe) Using C# and Unity game engine.
+ - Nothing ...
 
 ## Stuff i wanna learn : 
 - Java and C#.
@@ -33,5 +33,11 @@ I am a Computer Science student Passionate with developing Game, as well as play
 </a>
 <a href="https://github.com/Joknaa/Ookun-s_Adventure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joknaa&repo=Ookun-s_Adventure&theme=material-palenight&discreption=" />
+</a>
+<a href="https://github.com/Joknaa/Document_Request_Manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joknaa&repo=Document_Request_Manager&theme=material-palenight&discreption=" />
+</a>
+<a href="https://github.com/Joknaa/TicTacToe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joknaa&repo=TicTacToe&theme=material-palenight&discreption=" />
 </a>
 
