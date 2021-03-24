@@ -6,8 +6,8 @@ I am a Computer Science student Passionate with developing Game, as well as play
  - Nothing ...
 
 ## Stuff i wanna learn : 
-- Java and C#.
-- S.O.L.I.D principles of Object Oriented design.
+- Artificial Intelligence and Machine Learning.
+- Design Patterns.
 - Test-Driven Developement.
 
 ## How to reach me :
@@ -16,6 +16,7 @@ I am a Computer Science student Passionate with developing Game, as well as play
 - Instagram : [Oknaa_Kun](https://www.instagram.com/oknaa_kun/) <br>
 - Hackerrank : [Oknaa](https://www.hackerrank.com/Oknaa) <br>
 - HyperSkill : [Oknaa](https://hyperskill.org/profile/70430298) <br>
+- Discord : [Oknaa#7158]<br>
 
 ![](https://img.shields.io/badge/IDE-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
 ![](https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey)
