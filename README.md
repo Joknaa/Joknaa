@@ -24,9 +24,12 @@ I am a Computer Science student Passionate with developing Game, as well as play
 <br>
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 <br>
-<a href="https://github.com/joknaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joknaa&langs_count=7&layout=compact&hide=ShaderLab,hlsl&theme=material-palenight" />
-</a>
+<p align="center">
+ <a href="https://github.com/joknaa">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joknaa&langs_count=7&layout=compact&hide=ShaderLab,hlsl&theme=material-palenight" />
+ </a>
+
+
 <a href="https://github.com/joknaa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joknaa&hide_title=true&show_icons=true&theme=material-palenight" />
 </a>
@@ -43,4 +46,5 @@ I am a Computer Science student Passionate with developing Game, as well as play
 <a href="https://github.com/Joknaa/TicTacToe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joknaa&repo=TicTacToe&theme=material-palenight&discreption=" />
 </a>
+</p>
 
