@@ -18,18 +18,19 @@ I am a Computer Science student Passionate with developing Game, as well as play
 - HyperSkill : [Oknaa](https://hyperskill.org/profile/70430298) <br>
 - Discord : [Oknaa#7158]<br>
 
-![](https://img.shields.io/badge/IDE-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
-![](https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey)
-![](https://img.shields.io/badge/Preferred_Language-English-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=green)
-<br>
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 <br>
 <p align="center">
+ 
+ ![](https://img.shields.io/badge/IDE-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
+ ![](https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey)
+ ![](https://img.shields.io/badge/Preferred_Language-English-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=green)
+<br>
+
  <a href="https://github.com/joknaa">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joknaa&langs_count=7&layout=compact&hide=ShaderLab,hlsl&theme=material-palenight" />
  </a>
-
-
+ 
 <a href="https://github.com/joknaa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joknaa&hide_title=true&show_icons=true&theme=material-palenight" />
 </a>
