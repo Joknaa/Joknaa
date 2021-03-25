@@ -19,14 +19,16 @@ I am a Computer Science student Passionate with developing Game, as well as play
 - Discord : [Oknaa#7158]<br>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+
 <br>
 <p align="center">
- <a href="https://github.com/Joknaa/Multimedia_Library">
-  
- ![](https://img.shields.io/badge/IDE-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
- ![](https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey)
- ![](https://img.shields.io/badge/Preferred_Language-English-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=green)
- </a>
+ <a href="https://github.com/Joknaa">
+    <img align="center" src="https://img.shields.io/badge/IDE-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical" /> </a>
+ <a href="https://github.com/Joknaa">
+    <img align="center" src="https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey" /> </a>
+ <a href="https://github.com/Joknaa">
+    <img align="center" src="https://img.shields.io/badge/Preferred_Language-English-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=green" /> </a>
+
 </p>
 
 <p align="center">
