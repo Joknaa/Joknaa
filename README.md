@@ -3,7 +3,7 @@
 I am a Computer Science student Passionate with developing Game, as well as playing them 😏
 
 ## Current Projects : 
- - Nothing ...
+ - Looking for ideas ..
 
 ## Stuff i wanna learn : 
 - Artificial Intelligence and Machine Learning.
