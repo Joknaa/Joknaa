@@ -34,6 +34,7 @@ I am a Computer Science student Passionate with developing Game, as well as play
 <p align="center">
 <a href="https://github.com/joknaa">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joknaa&langs_count=7&layout=compact&hide=ShaderLab,hlsl&theme=material-palenight" /> </a>
+ <br>
 <a href="https://github.com/joknaa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joknaa&hide_title=true&show_icons=true&theme=material-palenight" /> </a>
 <br>
