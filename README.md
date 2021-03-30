@@ -14,6 +14,7 @@ I am a Computer Science student Passionate with developing Game, as well as play
 - LinkedIn : [MohammadLaadidaoui](https://www.linkedin.com/in/mohammadlaadidaoui/) <br>
 - Facebook : [OknaaKun](https://www.facebook.com/OknaaKun/) <br>
 - Instagram : [Oknaa_Kun](https://www.instagram.com/oknaa_kun/) <br>
+- Itch.io : [Oknaa](https://oknaa.itch.io/) <br>
 - Hackerrank : [Oknaa](https://www.hackerrank.com/Oknaa) <br>
 - HyperSkill : [Oknaa](https://hyperskill.org/profile/70430298) <br>
 - Discord : [Oknaa#7158]<br>
