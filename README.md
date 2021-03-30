@@ -27,8 +27,12 @@ I am a Computer Science student Passionate with developing Game, as well as play
     <img align="center" src="https://img.shields.io/badge/Preferred_Language-English-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=green" /> </a>
  <br>
  <a href="https://github.com/Joknaa">
+    <img align="center" src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=blue" /> </a>
+ <br>
+ 
+ <a href="https://www.jetbrains.com/idea/">
   <img align="center" src="https://img.shields.io/badge/IDE-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical" /> </a>
- <a href="https://github.com/Joknaa">
+ <a href="https://unity.com/">
     <img align="center" src="https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey" /> </a>
  
 
