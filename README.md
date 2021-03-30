@@ -1,4 +1,4 @@
-# Yoo , Oknaa here ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Yoo, Oknaa here ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a Computer Science student Passionate with developing Game, as well as playing them 😏
 
