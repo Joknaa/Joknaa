@@ -29,17 +29,12 @@ it's a metric of which languages I have the most code on github, and which I spe
     <img align="center" src="https://img.shields.io/badge/Hackerrank-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=2EC866" /> </a>
 <a href="https://hyperskill.org/profile/70430298">
     <img align="center" src="https://img.shields.io/badge/Hyperskill-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=000000" /> </a>
-
-
 <br> <br>  <br> <a href="https://github.com/Joknaa">
     <img align="center" src="https://img.shields.io/badge/Preferred_Language-English-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=green" /> </a>
-
 <br> <a href="https://www.jetbrains.com/idea/">
   <img align="center" src="https://img.shields.io/badge/IDE-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical" /> </a>
  <a href="https://unity.com/">
     <img align="center" src="https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey" /> </a>
- 
-
 </p>
 
 <p align="center">
