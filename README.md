@@ -2,35 +2,39 @@
 
 I am a Computer Science student Passionate with developing Game, as well as playing them 😏
 
+## Last Projects : 
+ - [ML_LinearRegression](https://github.com/Joknaa/ML_LinearRegression)
+
 ## Current Projects : 
  - Looking for ideas ..
 
 ## Stuff i wanna learn : 
 - Artificial Intelligence and Machine Learning.
 - Design Patterns.
-- Test-Driven Developement.
+- Test-Driven Development.
 
-## How to reach me :
-- LinkedIn : [MohammadLaadidaoui](https://www.linkedin.com/in/mohammadlaadidaoui/) <br>
-- Facebook : [OknaaKun](https://www.facebook.com/OknaaKun/) <br>
-- Instagram : [Oknaa_Kun](https://www.instagram.com/oknaa_kun/) <br>
-- Itch.io : [Oknaa](https://oknaa.itch.io/) <br>
-- Hackerrank : [Oknaa](https://www.hackerrank.com/Oknaa) <br>
-- HyperSkill : [Oknaa](https://hyperskill.org/profile/70430298) <br>
-- Discord : [Oknaa#7158]<br>
+*NOTE: Top languages does not indicate my skill level,
+it's a metric of which languages I have the most code on github, and which I spend more time on.*
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
-
-<br>
 <p align="center">
- <a href="https://github.com/Joknaa">
+<br> <a href="https://www.linkedin.com/in/mohammadlaadidaoui">
+    <img align="center" src="https://img.shields.io/badge/Linkedin-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=0A66C2" /> </a>
+<a href="https://www.facebook.com/OknaaKun">
+    <img align="center" src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=0E8EF1" /> </a>
+<a href="https://www.instagram.com/oknaa_kun">
+    <img align="center" src="https://img.shields.io/badge/Instagram-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=c13584" /> </a>
+<a href="https://oknaa.itch.io">
+    <img align="center" src="https://img.shields.io/badge/Itch.io-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=FFFFFF" /> </a>
+<a href="https://www.hackerrank.com/Oknaa">
+    <img align="center" src="https://img.shields.io/badge/Hackerrank-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=2EC866" /> </a>
+<a href="https://hyperskill.org/profile/70430298">
+    <img align="center" src="https://img.shields.io/badge/Hyperskill-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=000000" /> </a>
+
+
+<br> <br>  <br> <a href="https://github.com/Joknaa">
     <img align="center" src="https://img.shields.io/badge/Preferred_Language-English-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=green" /> </a>
- <br>
- <a href="https://github.com/Joknaa">
-    <img align="center" src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=blue" /> </a>
- <br>
- 
- <a href="https://www.jetbrains.com/idea/">
+
+<br> <a href="https://www.jetbrains.com/idea/">
   <img align="center" src="https://img.shields.io/badge/IDE-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical" /> </a>
  <a href="https://unity.com/">
     <img align="center" src="https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey" /> </a>
