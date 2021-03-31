@@ -12,8 +12,8 @@ I am a Computer Science student Passionate with developing Game, as well as play
  - Looking for ideas ..
 
 ## Stuff i wanna learn : 
+- Python
 - Artificial Intelligence and Machine Learning.
-- Design Patterns.
 - Test-Driven Development.
 
 *NOTE: Top languages does not indicate my skill level,
