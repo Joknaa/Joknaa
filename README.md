@@ -12,7 +12,7 @@ I am a Computer Science student Passionate with developing Game, as well as play
  - Learning Python
 
 ## Stuff i wanna learn : 
-- Artificial Intelligence and Machine Learning.
+- Reinforcement learning and Game AI
 - Test-Driven Development.
 
 *NOTE: Top languages does not indicate my skill level,
