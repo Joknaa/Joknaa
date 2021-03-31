@@ -8,11 +8,10 @@ I am a Computer Science student Passionate with developing Game, as well as play
 ## Last Projects : 
  - [ML_LinearRegression](https://github.com/Joknaa/ML_LinearRegression)
 
-## Current Projects : 
- - Looking for ideas ..
+## Current Focus : 
+ - Learning Python
 
 ## Stuff i wanna learn : 
-- Python
 - Artificial Intelligence and Machine Learning.
 - Test-Driven Development.
 
