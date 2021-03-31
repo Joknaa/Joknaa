@@ -6,7 +6,7 @@
 I am a Computer Science student Passionate with developing Game, as well as playing them 😏
 
 ## Last Projects : 
- - [ML_LinearRegression](https://github.com/Joknaa/ML_LinearRegression)
+ - [PySnake](https://github.com/Joknaa/PySnake)
 
 ## Current Focus : 
  - Learning Python
