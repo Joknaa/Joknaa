@@ -41,7 +41,7 @@ it's a metric of which languages I have the most code on github, and which I spe
 
 <p align="center">
 <a href="https://github.com/joknaa">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joknaa&langs_count=7&layout=compact&hide=ShaderLab,hlsl&theme=material-palenight" /> </a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joknaa&langs_count=7&layout=compact&hide=ASP.net,ShaderLab,hlsl&theme=material-palenight" /> </a>
  <br>
 <a href="https://github.com/joknaa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joknaa&hide_title=true&show_icons=true&theme=material-palenight" /> </a>
