@@ -8,8 +8,8 @@ I am a Computer Science student Passionate with developing Game, as well as play
 ## Last Projects : 
  - [PySnake](https://github.com/Joknaa/PySnake)
 
-## Current Focus : 
- - Learning Pygame
+## Current Project : 
+ - PyHangMan
 
 ## Stuff i wanna learn : 
 - Reinforcement learning and Game AI
