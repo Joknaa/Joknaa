@@ -7,7 +7,7 @@ I am a Computer Science student Passionate with developing Game, as well as play
  - [PySnake](https://github.com/Joknaa/PySnake)
 
 ### Current Project : 
- - School PyGameJam
+ - PyHangMan
 
 ### Stuff i wanna learn :
 - Python
