@@ -17,7 +17,7 @@
 I am a Computer Science student Passionate with developing Game, as well as playing them 😏
 
 ### Last Projects : 
- - [PySnake](https://github.com/Joknaa/PySnake)
+ - [ElectronForSale](https://github.com/Joknaa/ElectronForSale)
 
 ### Current Project : 
  - [BroadCost](https://github.com/Joknaa/BreadCost)
