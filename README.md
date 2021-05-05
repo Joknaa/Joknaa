@@ -21,6 +21,7 @@ I am a Computer Science student Passionate with developing Game, as well as play
 
 ### Current Project : 
  - [BroadCost](https://github.com/Joknaa/BreadCost)
+ - [NieRAutoRental](https://github.com/Joknaa/NieRAutoRental)
 
 ### Stuff i wanna learn :
 - Python
