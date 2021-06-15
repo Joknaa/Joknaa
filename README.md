@@ -19,10 +19,9 @@ I am a Computer Science student Passionate with developing Game, as well as play
 
 ### Last Projects : 
  - [BroadCost](https://github.com/Joknaa/BreadCost)
- - [NieRAutoRental](https://github.com/Joknaa/NieRAutoRental)
- - 
+
 ### Current Project : 
- - [Covid19_Morocco_Rundown](https://github.com/Joknaa/Covid19_Morocco_Rundown)
+ - [COV19_Morroco_Rundown](https://github.com/Joknaa/COV19_Morroco_Rundown)
  - [NieRAutoRental](https://github.com/Joknaa/NieRAutoRental)
 
 ### Stuff i wanna learn :
