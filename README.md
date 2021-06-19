@@ -18,12 +18,10 @@ I am a Computer Science student Passionate with developing Game, as well as play
 
 
 ### Last Projects : 
- - [BroadCost](https://github.com/Joknaa/BreadCost)
-
-### Current Project : 
- - [COV19_Morroco_Rundown](https://github.com/Joknaa/COV19_Morroco_Rundown)
  - [NieRAutoRental](https://github.com/Joknaa/NieRAutoRental)
 
+### Current Project : 
+ - ...
 ### Stuff i wanna learn :
 - Python
 - Reinforcement learning and Game AI
