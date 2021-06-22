@@ -21,7 +21,8 @@ I am a Computer Science student Passionate with developing Game, as well as play
  - [NieRAutoRental](https://github.com/Joknaa/NieRAutoRental)
 
 ### Current Project : 
- - ...
+ - [MineSweeper](https://github.com/Joknaa/Minesweeper)
+
 ### Stuff i wanna learn :
 - Python
 - Reinforcement learning and Game AI
