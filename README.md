@@ -20,14 +20,14 @@ I am a Computer Science student Passionate with developing Game, as well as play
 
 
 ### Last Projects : 
- - [NieRAutoRental](https://github.com/Joknaa/NieRAutoRental)
-
-### Current Project : 
  - [MineSweeper](https://github.com/Joknaa/Minesweeper)
 
+### Current Project : 
+ - ...
+
 ### Stuff i wanna learn :
-- Python
-- Reinforcement learning and Game AI
+- More about Unity
+- Agile software development 
 - Test-Driven Development.
 
 *NOTE: Top languages does not indicate my skill level,
