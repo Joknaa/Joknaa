@@ -20,10 +20,10 @@ I am a Computer Science student Passionate with developing Game, as well as play
 
 
 ### Last Projects : 
- - [MineSweeper](https://github.com/Joknaa/Minesweeper)
+ - [Pong](https://github.com/Joknaa/Pong)
 
 ### Current Project : 
- - [Pong](https://github.com/Joknaa/Pong)
+ - Secret Stuff 😏
 
 ### Stuff i wanna learn :
 - More about Unity
