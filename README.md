@@ -23,7 +23,7 @@ I am a Computer Science student Passionate with developing Game, as well as play
  - Secret Stuff 😏
 
 ### Current Project : 
- - [IngDow](https://github.com/Joknaa/IngDow)
+ - [StuRent](https://github.com/Joknaa/StuRent)
 
 ### Stuff i wanna learn :
 - More about Unity
