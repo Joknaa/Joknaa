@@ -26,8 +26,7 @@ I am a Computer Science student Passionate with developing Game, as well as play
  - [StuRent](https://github.com/Joknaa/StuRent)
 
 ### Stuff i wanna learn :
-- More about Unity
-- Agile software development 
+- "Entity Component System" in Unity
 - Test-Driven Development.
 
 *NOTE: Top languages does not indicate my skill level,
