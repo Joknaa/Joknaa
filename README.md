@@ -20,10 +20,10 @@ I am a Computer Science student Passionate with developing Game, as well as play
 
 
 ### Last Projects : 
- - Secret Stuff 😏
+ - [StuRent](https://github.com/Joknaa/StuRent)
 
 ### Current Project : 
- - [StuRent](https://github.com/Joknaa/StuRent)
+ - ...
 
 ### Stuff i wanna learn :
 - "Entity Component System" in Unity
