@@ -23,7 +23,11 @@ I am a Computer Science student Passionate with developing Game, as well as play
  - [SearchAirgine](https://github.com/Joknaa/SearchAirgine)
 
 ### Current Project : 
- - ...
+ - [InternshipsReportsLibrary](https://github.com/Joknaa/InternshipsReportLibrary)
+
+### Stuff i am learning :
+- ASP.NET Core
+- React Native
 
 ### Stuff i wanna learn :
 - "Entity Component System" in Unity
