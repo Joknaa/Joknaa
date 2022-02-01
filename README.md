@@ -52,6 +52,8 @@
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
+<br/>
+
 
 *NOTE: Top languages does not indicate my skill level, it's a metric of which languages I have the most code on github,
 and which I spend more time on.*
@@ -69,7 +71,9 @@ and which I spend more time on.*
 
 <details>	
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
+<br/>
+
+<ul>
   	    <li><b>OS:</b> Windows 11 Pro Insider Preview Build 22538.1010 </li>
   	    <li><b>Processor:</b> Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz   2.70 GHz </li>
   	    <li><b>RAM:</b> 8 Gb </li>
