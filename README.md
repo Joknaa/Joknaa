@@ -41,7 +41,7 @@
 
 ### Current Project :
 
-- ...
+- [Taziri](https://github.com/Joknaa/Taziri)
 
 ### Stuff I want to learn :
 
