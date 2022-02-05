@@ -37,11 +37,11 @@
 
 ### Last Projects :
 
-- [BubbleApp](https://github.com/Joknaa/BubbleApp)
+- [Taziri](https://github.com/Joknaa/Taziri)
 
 ### Current Project :
 
-- [Taziri](https://github.com/Joknaa/Taziri)
+- [RedNeckRun](https://github.com/Joknaa/RedNeckRun)
 
 ### Stuff I want to learn :
 
