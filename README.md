@@ -30,7 +30,8 @@
 </p>
 <div align="center">
 
-### I am a Computer Science Engineer, and a Game Developer who enjoys looking into the clear night sky ✨ 🔭 ☄️
+### I am a Computer Science Engineer, and a Game Developer who enjoys looking into the clear night sky 
+✨ 🔭 ☄️
 
 </div>
 <br/>
