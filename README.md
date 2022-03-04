@@ -46,8 +46,7 @@
 
 ### Stuff I want to learn :
 
-- "Entity Component System" in Unity
-- Test-Driven Development.
+- Fast-Prototyping in Unity
 
 <br/>
 
