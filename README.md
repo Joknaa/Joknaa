@@ -32,13 +32,15 @@
 
 ### I am a Computer Science Engineer, and a Game Developer who enjoys looking into the clear night sky 
 ✨ 🔭 ☄️
+<br>
+	Check my [Jupithero](https://github.com/Jupithero) organization to see all of my game projects, any feedback is very welcomed :D
 
 </div>
 <br/>
 
 ### Last Projects :
 
-- [FlatLand](https://github.com/Joknaa/FlatLand)
+- [ChibiBasketBall](https://github.com/Joknaa/ChibiBasketBall)
 
 ### Current Project :
 
