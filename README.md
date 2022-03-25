@@ -78,7 +78,7 @@ and which I spend more time on.*
 <br/>
 
 <ul>
-  	    <li><b>OS:</b> Windows 11 Pro Insider Preview Build 22538.1010 </li>
+  	    <li><b>OS:</b> Windows 11 Pro Insider Preview Latest Build </li>
   	    <li><b>Processor:</b> Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz   2.70 GHz </li>
   	    <li><b>RAM:</b> 8 Gb </li>
 	    <li><b>Laptop: </b> FUJITSU LIFEBOOK E547</li>
