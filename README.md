@@ -93,9 +93,9 @@ and which I spend more time on.*
 <br/>
 
 <div align="center">
-    <a href="https://www.buymeacoffee.com/oknaa" target="_blank">
+    <!--a href="https://www.buymeacoffee.com/oknaa" target="_blank"-->
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" height="60px" width="217px" >
-    </a>
+    <!--/a-->
 
 ### Show some ❤️ by following and starring some repositories!
 </div>
