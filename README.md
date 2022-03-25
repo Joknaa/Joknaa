@@ -44,11 +44,13 @@
 
 ### Current Project :
 
-- secret stuff ...
+- [RuntimeMeshManipulation](https://github.com/jupithero/RuntimeMeshManipulation)
 
 ### Stuff I want to learn :
 
-- Fast-Prototyping in Unity
+- Compute shaders and shader graph in Unity
+- Game Fast-Prototyping
+- Writing clean and optimized code
 
 <br/>
 
