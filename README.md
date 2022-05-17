@@ -40,16 +40,15 @@
 
 ### Last Projects :
 
-- [ChibiBasketBall](https://github.com/Joknaa/ChibiBasketBall)
+- [RuntimeMeshManipulation](https://github.com/jupithero/RuntimeMeshManipulation)
 
 ### Current Project :
 
-- [RuntimeMeshManipulation](https://github.com/jupithero/RuntimeMeshManipulation)
+- Secret stuff ...
 
 ### Stuff I want to learn :
 
 - Compute shaders and shader graph in Unity
-- Game Fast-Prototyping
 - Writing clean and optimized code
 
 <br/>
