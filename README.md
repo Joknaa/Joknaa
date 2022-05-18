@@ -44,7 +44,7 @@
 
 ### Current Project :
 
-- Secret stuff ...
+- Working on some private projects at [Gitlab](https://gitlab.com/oknaa)
 
 ### Stuff I want to learn :
 
