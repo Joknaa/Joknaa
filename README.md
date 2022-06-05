@@ -39,7 +39,7 @@
 
 ### Last Projects :
 
-- [RuntimeMeshManipulation](https://github.com/jupithero/RuntimeMeshManipulation)
+- [My Friend's Game](https://github.com/Joknaa/MyFriendsGame)
 
 ### Current Project :
 
@@ -47,7 +47,8 @@
 
 ### Stuff I want to learn :
 
-- Compute shaders and shader graph in Unity
+- Pixel art
+- Finish and release more small games.
 - Writing clean and optimized code
 
 <br/>
