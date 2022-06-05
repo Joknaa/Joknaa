@@ -21,7 +21,6 @@
     <img align="center" src="https://img.shields.io/badge/Hyperskill-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=000000" /> </a>
 <br/>
 <br/>
-    <img align="center" src="https://img.shields.io/badge/IDE-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=orange" /> 
     <img align="center" src="https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey" /> 
 <br/>
 <br/>
