@@ -39,7 +39,7 @@
 
 ### Last Projects :
 
-- [My Friend's Game](https://github.com/Joknaa/MyFriendsGame)
+- [Where is the target ?](https://github.com/Jupithero/WhatIsTheTarget)
 
 ### Current Project :
 
