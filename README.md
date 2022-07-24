@@ -43,7 +43,7 @@
 
 ### Current Project :
 
-- Working on some private projects at [Gitlab](https://gitlab.com/oknaa)
+- [Floating Islands](https://github.com/Jupithero/FloatingIslands)
 
 ### Stuff I want to learn :
 
