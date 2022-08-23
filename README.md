@@ -47,9 +47,8 @@
 
 ### Stuff I want to learn :
 
-- Pixel art
-- Finish and release more small games.
-- Writing clean and optimized code
+- Draw Pixel art
+- Create LowPoly models.
 
 <br/>
 
