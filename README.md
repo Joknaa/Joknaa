@@ -43,12 +43,7 @@
 
 ### Current Project :
 
-- [Floating Islands](https://github.com/Jupithero/FloatingIslands)
-
-### Stuff I want to learn :
-
-- Draw Pixel art
-- Create LowPoly models.
+- Secret Stuff
 
 <br/>
 
