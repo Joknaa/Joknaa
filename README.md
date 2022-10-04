@@ -29,7 +29,7 @@
 </p>
 <div align="center">
 
-### I am a Computer Science Engineer, and a Game Developer who enjoys looking into the clear night sky 
+### I am a Unity Game Developer, with a Computer Science Engineer Master's Deploma, who simply enjoys looking into the clear night sky 
 ✨ 🔭 ☄️
 <br>
 	Check my [Jupithero](https://github.com/Jupithero) organization to see all of my game projects, any feedback is very welcomed :D
