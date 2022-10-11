@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-<a href="https://Oknaa.me">
+<a href="https://joknaa.github.io">
     <img align="center" src="https://img.shields.io/badge/Portfolio-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=293B5F" /></a>
 <a href="https://www.linkedin.com/in/mohammadlaadidaoui">
     <img align="center" src="https://img.shields.io/badge/Linkedin-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=0A66C2" /> </a>
