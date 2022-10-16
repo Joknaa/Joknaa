@@ -32,7 +32,7 @@
 </p>
 <div align="center">
 
-### I am a Unity Game Developer, with a Computer Science Engineer Master's Deploma, who simply enjoys looking into the clear night sky 
+### I am a Unity Game Developer, with a Computer Science Engineer Master's degree, and a PhD student who simply enjoys looking into the clear night sky 
 ✨ 🔭 ☄️
 <br>
 	Check my [Jupithero](https://github.com/Jupithero) organization to see all of my game projects, any feedback is very welcomed :D
@@ -42,11 +42,13 @@
 
 ### Last Projects :
 
-- [Where is the target ?](https://github.com/Jupithero/WhatIsTheTarget)
+- [Shaders](https://github.com/Jupithero/Shaders)
 
 ### Current Project :
 
-- Secret Stuff
+- [AR Applications](https://github.com/Jupithero/ARShenanigans)
+- Various private freelance projects ;)
+
 
 <br/>
 
