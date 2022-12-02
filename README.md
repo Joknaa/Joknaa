@@ -42,11 +42,10 @@
 
 ### Last Projects :
 
-- [Shaders](https://github.com/Jupithero/Shaders)
+- [AR Applications](https://github.com/Jupithero/ARShenanigans)
 
 ### Current Project :
 
-- [AR Applications](https://github.com/Jupithero/ARShenanigans)
 - Various private freelance projects ;)
 
 
