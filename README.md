@@ -75,10 +75,11 @@ and which I spend more time on.*
 <br/>
 
 <ul>
+	    <li><b>Phone: </b> Redmi Note 11: 6Gb/128GB </li>
+	    <li><b>Laptop: </b> FUJITSU LIFEBOOK E547</li>
   	    <li><b>OS:</b> Windows 11 Pro Insider Preview Latest Build </li>
   	    <li><b>Processor:</b> Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz   2.70 GHz </li>
   	    <li><b>RAM:</b> 8 Gb </li>
-	    <li><b>Laptop: </b> FUJITSU LIFEBOOK E547</li>
 	    <li><b>Code Editor:</b> Intellij IDEA / Rider Ultimate (JetBrains).</li>
 	    <li><b>Game Engine:</b> Unity.</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
