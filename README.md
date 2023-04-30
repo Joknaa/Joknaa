@@ -46,7 +46,7 @@
 
 ### Current Project :
 
-- Various private freelance projects ;)
+- Various private projects (Switched to GitLab for now)
 
 
 <br/>
