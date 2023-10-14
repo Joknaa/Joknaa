@@ -1,4 +1,4 @@
-<div align="center">
+z<div align="center">
 
 <img align="center" src="Resources/Email Banner_01.jpg" /></a>
 
@@ -35,7 +35,9 @@
 ### I am a Unity Game Developer, with a Computer Science Engineer Master's degree, and a PhD student who simply enjoys looking into the clear night sky 
 ✨ 🔭 ☄️
 <br>
-	Check my [Jupithero](https://github.com/Jupithero) organization to see all of my game projects, any feedback is very welcomed :D
+	Check my [Jupithero](https://github.com/Jupithero) organization to see all of my game projects, any feedback is very welcomed :D 
+<br/>
+	Check also my job account [Oknaa2.0](https://github.com/oknaa2) where i do most of my work lately 
 
 </div>
 <br/>
