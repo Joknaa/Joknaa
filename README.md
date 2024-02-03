@@ -12,10 +12,14 @@
     <img align="center" src="https://img.shields.io/badge/Portfolio-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=293B5F" /></a>
 <a href="https://www.linkedin.com/in/mohammadlaadidaoui">
     <img align="center" src="https://img.shields.io/badge/Linkedin-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=0A66C2" /> </a>
-<a href="https://www.facebook.com/OknaaKun">
+
+  
+<!--<a href="https://www.facebook.com/OknaaKun">
     <img align="center" src="https://img.shields.io/badge/Facebook-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=0E8EF1" /> </a>
 <a href="https://www.instagram.com/oknaa_kun">
     <img align="center" src="https://img.shields.io/badge/Instagram-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=c13584" /> </a>
+-->
+ 
 <a href="https://oknaa.itch.io">
     <img align="center" src="https://img.shields.io/badge/Itch.io-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=FFFFFF" /> </a>
 <a href="https://www.hackerrank.com/Oknaa">
@@ -44,13 +48,13 @@
 
 ### Last Projects :
 
-- [AR Applications](https://github.com/Jupithero/ARShenanigans)
+- [Guess'n'Giggle](https://oknaa.itch.io/guessngiggle) (Global Game Jam 2024 submission)
 
 ### Current Project :
 
-- Various private projects (Switched to GitLab for now)
+- [Infant Sitter](https://play.google.com/store/apps/details?id=com.acrabstudio.infantsittersaga)
 
-
+ 
 <br/>
 
 <details>	
