@@ -66,7 +66,7 @@
 and which I spend more time on.*
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joknaa&execlud=PyGameJam&langs_count=7&layout=compact&hide=html,ShaderLab,hlsl&theme=material-palenight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joknaa&execlud=PyGameJam&langs_count=7&layout=compact&hide=html,ShaderLab,hlsl,python&theme=material-palenight" />
 <br/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=joknaa&hide_title=true&show_icons=true&theme=material-palenight" />
 <br/>
