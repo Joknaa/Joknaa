@@ -31,7 +31,7 @@
     <img align="center" src="https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey" /> 
 <br/>
 <br/>
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=${Joknaa}.${Joknaa}&left_color=black&right_color=red" />
+    <img align="center" src="https://komarev.com/ghpvc/?username=joknaa&label=Profile%20views&color=0e75b6&style=flat"/>
     <img align="center" src="https://img.shields.io/github/followers/joknaa?label=Github&style=flat-square" />
 </p>
 <div align="center">
