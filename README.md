@@ -62,52 +62,39 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 ### - Client Published Games :
 
 <a href="https://play.google.com/store/apps/details?id=com.acrabstudio.infantsittersaga">
-	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/infantSitter.png" width="100" height="100"/>
-</a>
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/infantSitter.png" width="100" height="100"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.acrab.emojilevelingrunner">
-	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/EmogiLeveling.png" width="100" height="100"/>
-</a>
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/EmogiLeveling.png" width="100" height="100"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.acrab.zombiewarz">
-	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/WarLordZ.png" width="100" height="100"/>
-</a>
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/WarLordZ.png" width="100" height="100"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.acrab.baradventureidle">
-	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/BarVenture.jpg" width="100" height="100"/>
-</a> 
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/BarVenture.jpg" width="100" height="100"/></a> 
 <a href="https://play.google.com/store/apps/details?id=com.acrab.mergingcars">
-	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/MergingCars.png" width="100" height="100"/>
-</a> 
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/MergingCars.png" width="100" height="100"/></a> 
 <a href="https://play.google.com/store/apps/details?id=com.acrab.slingnightdrift">
-	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/SlimNightDrift.png" width="100" height="100"/>
-</a>
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/SlimNightDrift.png" width="100" height="100"/></a>
 <a href="https://oknaa.itch.io/chicken-slap-cook">
-	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/SlapCook.png" width="100" height="100"/>
-</a>
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/SlapCook.png" width="100" height="100"/></a>
 
 
 ### - Game Jam Submissions :
 
 <a href="https://oknaa.itch.io/guessngiggle">
-	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/guess'n'giggle.png" width="126" height="100"/>
-</a>
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/guess'n'giggle.png" width="126" height="100"/></a>
 <a href="https://oknaa.itch.io/animalfarm">
-	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/AnimalFarm.png" width="126" height="100"/>
-</a>
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/AnimalFarm.png" width="126" height="100"/></a>
 <a href="https://ziadrbai.itch.io/my-friends-game">
-	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/MyFriendsGame.png" width="126" height="100"/>
-</a>
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/MyFriendsGame.png" width="126" height="100"/></a>
 <a href="https://oknaa.itch.io/whereisthetarget">
-	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/WhereIsTheTarget.png" width="126" height="100"/>
-</a>
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/WhereIsTheTarget.png" width="126" height="100"/></a>
 
 
 ### - Other Games :
 
 <a href="https://oknaa.itch.io/tictactoe">
-	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/TicTacTo.png" width="126" height="100"/>
-</a>
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/TicTacTo.png" width="126" height="100"/></a>
 <a href="https://oknaa.itch.io/taziri">
-	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/Taziri.png" width="126" height="100"/>
-</a>
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/Taziri.png" width="126" height="100"/></a>
 
 <br/>
 <br/>
