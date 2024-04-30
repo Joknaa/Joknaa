@@ -1,39 +1,45 @@
 <div align="center">
-
 <img align="center" src="Resources/Linkedin Banner_07.png" /></a>
-
 </div>
+
+
+<p align="center">
+<!--a href="https://hyperskill.org/profile/70430298">  <img align="center" src="https://img.shields.io/badge/Hyperskill-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=000000" /> </a-->
+<a href="https://joknaa.github.io"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
+<a href="https://www.linkedin.com/in/mohammadlaadidaoui"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whit" /> </a>
+<a href=" https://upwork.com/freelancers/~016f38f805c92f8e40">  <img align="center" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /> </a>
+<a href="https://oknaa.itch.io">  <img align="center" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" /> </a>
+<a href="https://www.hackerrank.com/Oknaa">  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> </a>
+<br/>
+<a href="https://discord.com/invite/tHe3QxFJ">  <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /> </a>
+<a href="mailto:mohammadLaadidaoui@gmail.com">  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<br/>
+<a href="https://open.spotify.com/user/31ivnhgqyntjjxny7wyeets7zcli">  <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> </a>
+<a href="https://www.goodreads.com/user/show/110564911-oknaa">  <img align="center" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" /> </a>
+<a href="https://steamcommunity.com/id/Oknaa/">  <img align="center" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /> </a>
+
+
+
+<br/>
+
+<!--img align="center" src="https://komarev.com/ghpvc/?username=joknaa&label=Profile%20views&color=0e75b6&style=flat"/-->
+<!--img align="center" src="https://img.shields.io/github/followers/joknaa?label=Github&style=flat-square" /-->
+
+</p>
+
 
 <div align="center">
 	
-### I am a Unity Game Developer, with a Computer Science Engineer Master's degree, and a PhD student who simply enjoys looking into the clear night sky ✨ 🔭 ☄️
+### Unity Game Designer, Developer, and Educator. Computer Science Engineer, and PhD student
 <br> 
 
 Check my [Jupithero](https://github.com/Jupithero) organization to see all of my game projects, any feedback is very welcomed :D  
 </div>
 
-<br/>
-<br/>
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
-
-## 🌐 Socials:
-
-<p align="center">
-<a href="https://joknaa.github.io"><img align="center" src="https://img.shields.io/badge/Portfolio-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=293B5F" /></a>
-<a href="https://www.linkedin.com/in/mohammadlaadidaoui"><img align="center" src="https://img.shields.io/badge/Linkedin-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=0A66C2" /> </a>
-<a href="https://oknaa.itch.io">  <img align="center" src="https://img.shields.io/badge/Itch.io-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=FFFFFF" /> </a>
-<a href="https://www.hackerrank.com/Oknaa">  <img align="center" src="https://img.shields.io/badge/Hackerrank-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=2EC866" /> </a>
-<a href="https://hyperskill.org/profile/70430298">  <img align="center" src="https://img.shields.io/badge/Hyperskill-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=000000" /> </a>
-<br/>
-    <img align="center" src="https://img.shields.io/badge/GameEngine-Unity-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=lightgrey" /> 
-    <img align="center" src="https://komarev.com/ghpvc/?username=joknaa&label=Profile%20views&color=0e75b6&style=flat"/>
-    <img align="center" src="https://img.shields.io/github/followers/joknaa?label=Github&style=flat-square" />
-</p>
 
 <br/>
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 
 
 ## 💻 Tech Stack:
@@ -47,13 +53,13 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 
 <br/>
 <br/>
-
+--> 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
 
 
 ## 👨🏻‍💻 Projects :
 
-### Client Published Games :
+### - Client Published Games :
 
 <a href="https://play.google.com/store/apps/details?id=com.acrabstudio.infantsittersaga">
 	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/infantSitter.png" width="100" height="100"/>
@@ -74,11 +80,11 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/SlimNightDrift.png" width="100" height="100"/>
 </a>
 <a href="https://oknaa.itch.io/chicken-slap-cook">
-	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/SlapCook.png" width="126" height="100"/>
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/SlapCook.png" width="100" height="100"/>
 </a>
 
 
-### Game Jam Submissions :
+### - Game Jam Submissions :
 
 <a href="https://oknaa.itch.io/guessngiggle">
 	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/guess'n'giggle.png" width="126" height="100"/>
@@ -86,13 +92,21 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 <a href="https://oknaa.itch.io/animalfarm">
 	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/AnimalFarm.png" width="126" height="100"/>
 </a>
-
 <a href="https://ziadrbai.itch.io/my-friends-game">
 	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/MyFriendsGame.png" width="126" height="100"/>
 </a>
-
 <a href="https://oknaa.itch.io/whereisthetarget">
 	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/WhereIsTheTarget.png" width="126" height="100"/>
+</a>
+
+
+### - Other Games :
+
+<a href="https://oknaa.itch.io/tictactoe">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/TicTacTo.png" width="126" height="100"/>
+</a>
+<a href="https://oknaa.itch.io/taziri">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/Taziri.png" width="126" height="100"/>
 </a>
 
 <br/>
