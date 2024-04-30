@@ -73,14 +73,27 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 <a href="https://play.google.com/store/apps/details?id=com.acrab.slingnightdrift">
 	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/SlimNightDrift.png" width="100" height="100"/>
 </a>
+<a href="https://oknaa.itch.io/chicken-slap-cook">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/SlapCook.png" width="126" height="100"/>
+</a>
 
 
+### Game Jam Submissions :
 
+<a href="https://oknaa.itch.io/guessngiggle">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/guess'n'giggle.png" width="126" height="100"/>
+</a>
+<a href="https://oknaa.itch.io/animalfarm">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/AnimalFarm.png" width="126" height="100"/>
+</a>
 
-- [Guess'n'Giggle](https://oknaa.itch.io/guessngiggle) (Global Game Jam 2024 submission)
+<a href="https://ziadrbai.itch.io/my-friends-game">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/MyFriendsGame.png" width="126" height="100"/>
+</a>
 
-### Current :
-- [Infant Sitter](https://play.google.com/store/apps/details?id=com.acrabstudio.infantsittersaga)
+<a href="https://oknaa.itch.io/whereisthetarget">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/WhereIsTheTarget.png" width="126" height="100"/>
+</a>
 
 <br/>
 <br/>
