@@ -53,10 +53,29 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 
 ## 👨🏻‍💻 Projects :
 
-### Last :
-[![Project 1](https://your-icon-url-here)](link-to-your-project)
-[![Project 2](https://your-icon-url-here)](link-to-your-project)
-[![Project 3](https://your-icon-url-here)](link-to-your-project)
+### Client Published Games :
+
+<a href="https://play.google.com/store/apps/details?id=com.acrabstudio.infantsittersaga">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/infantSitter.png" width="100" height="100"/>
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.acrab.emojilevelingrunner">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/EmogiLeveling.png" width="100" height="100"/>
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.acrab.zombiewarz">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/WarLordZ.png" width="100" height="100"/>
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.acrab.baradventureidle">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/BarVenture.jpg" width="100" height="100"/>
+</a> 
+<a href="https://play.google.com/store/apps/details?id=com.acrab.mergingcars">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/MergingCars.png" width="100" height="100"/>
+</a> 
+<a href="https://play.google.com/store/apps/details?id=com.acrab.slingnightdrift">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/SlimNightDrift.png" width="100" height="100"/>
+</a>
+
+
+
 
 - [Guess'n'Giggle](https://oknaa.itch.io/guessngiggle) (Global Game Jam 2024 submission)
 
