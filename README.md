@@ -17,13 +17,8 @@
 <a href="https://open.spotify.com/user/31ivnhgqyntjjxny7wyeets7zcli">  <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 <a href="https://www.goodreads.com/user/show/110564911-oknaa">  <img align="center" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" /></a>
 <a href="https://steamcommunity.com/id/Oknaa/">  <img align="center" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>
-
-
-
-
 <br/>
-
-<!--img align="center" src="https://komarev.com/ghpvc/?username=joknaa&label=Profile%20views&color=0e75b6&style=flat"/-->
+<img align="center" src="https://komarev.com/ghpvc/?username=joknaa&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 <!--img align="center" src="https://img.shields.io/github/followers/joknaa?label=Github&style=flat-square" /-->
 
 </p>
