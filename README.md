@@ -134,7 +134,7 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 
 <p align="center" >
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=joknaa&theme=nord&no-frame=true&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1" />
+<img align="center" src="https://github-trophies.vercel.app/?username=joknaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA" >
 
 </p>
 
@@ -148,12 +148,18 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 <p align="center" >
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joknaa&theme=dracula" />
+
 <br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joknaa&theme=dark&hide_border=true&theme=material-palenight" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joknaa&theme=material-palenight&hide_border=false&hide_border=true" />
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joknaa&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=joknaa&theme=material-palenight&hide_border=true&include_all_commits=true&&count_private=truecount_private=true" />
+
+
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joknaa&execlud=PyGameJam&langs_count=7&layout=compact&hide=html,ShaderLab,hlsl,python&theme=material-palenight&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joknaa&execlud=PyGameJam&langs_count=6&layout=compact&hide=html,ShaderLab,hlsl,python&theme=material-palenight&hide_border=true" />
+
 </p>
 
 
