@@ -3,6 +3,7 @@
 </div>
 
 
+
 <p align="center">
 <!--a href="https://hyperskill.org/profile/70430298">  <img align="center" src="https://img.shields.io/badge/Hyperskill-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=000000" /> </a-->
 <a href="https://joknaa.github.io"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
@@ -97,6 +98,34 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 
 <br/>
 <br/>
+
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
+
+
+## 🏅 Badges :
+
+<p align="center">
+
+<a href="https://www.credly.com/badges/38881e01-741f-4518-b678-43aab0268d15">
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/Badges/AI_Analyst_2021_Explorer_Award.png" width="150" height="150"/></a>
+
+<a href="https://www.credly.com/badges/ede01043-ef6b-4b2c-9981-d40961c23dd3">
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/Badges/AI_Analyst_2021_Mastery_Award.png" width="150" height="150"/></a>
+
+<a href="https://www.credly.com/badges/929ef6ec-9872-4123-abdd-273deb7b5961">
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/Badges/unity-essentials-pathway.png" width="150" height="150"/></a>
+
+<a href="https://www.credly.com/badges/6aa9b6eb-d740-4f21-bbe7-104a6415ca70">
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/Badges/unity-junior-programmer.png" width="150" height="150"/></a> 
+
+</p>
+
+
+
+<br/>
+<br/>
+
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
 
