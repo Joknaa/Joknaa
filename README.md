@@ -134,7 +134,7 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 
 <p align="center" >
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=joknaa&theme=nord&no-frame=true&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=joknaa&theme=nord&no-frame=true&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A&column=-1" />
 
 </p>
 
