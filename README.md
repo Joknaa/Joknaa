@@ -1,118 +1,3 @@
-
-## 🎮 My Favourit Games :
-
-### - I LOVE THESE ! Changed my life !!! 
-
-<a href="https://store.steampowered.com/app/413150/Stardew_Valley/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/stardew valley.png" /></a>
-<a href="https://store.steampowered.com/app/504230"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/celeste.png" /></a>
-<a href="https://store.steampowered.com/app/383870"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/fire watch.png" /></a>
-<a href="https://store.steampowered.com/app/201870/Assassins_Creed_Revelations/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC 2 Revelation.png" /></a>
-<a href="https://store.steampowered.com/app/638230"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/journey.png" /></a>
-
-### - Enjoyed playing: 
-
-<a href="https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC 1.png" /></a>
-<a href="https://store.steampowered.com/app/33230/Assassins_Creed_2/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC 2.png" /></a>
-<a href="https://store.steampowered.com/app/48190/Assassins_Creed_Brotherhood/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC 2 brotherhood.png" /></a>
-<a href="https://store.steampowered.com/app/242050/Assassins_Creed_IV_Black_Flag/?snr=1_7_7_151_150_1v"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC blackflag.png" /></a>
-<a href="https://store.steampowered.com/app/289650/Assassins_Creed_Unity/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC unity.png" /></a>
-<a href="https://store.steampowered.com/app/368500/Assassins_Creed_Syndicate/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC syndicate.png" /></a>
-<a href="https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/skyrim.png" /></a>
-<a href="https://store.steampowered.com/app/235460/METAL_GEAR_RISING_REVENGEANCE/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/MGS revengeance.png" /></a>
-<a href="https://store.steampowered.com/app/287700/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/MGSV.png" /></a>
-<a href="https://store.steampowered.com/app/329050/Devil_May_Cry_4_Special_Edition/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/DMC.png" /></a>
-<a href="https://store.steampowered.com/app/388410/Darksiders_II_Deathinitive_Edition/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/Darksiders2.png" /></a>
-<a href="https://store.steampowered.com/app/728880/Overcooked_2/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/overcooked2.png" /></a>
-<a href="https://store.steampowered.com/app/221910/The_Stanley_Parable/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/the stanley parable.png" /></a>
-<a href="https://store.steampowered.com/app/388880"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/oxenfree.png" /></a>
-<a href="https://store.steampowered.com/app/736260"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/baba is you.png" /></a>
-<a href="https://store.steampowered.com/app/590380"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/into the breach.png" /></a>
-<a href="https://store.steampowered.com/app/688420/Bad_North_Jotunn_Edition/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/bad north.png" /></a>
-<a href="https://store.steampowered.com/app/606150"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/moonlighter.png" /></a>
-<a href="https://store.steampowered.com/app/261570/Ori_and_the_Blind_Forest/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/ori and the blind forest.png" /></a>
-<a href="https://store.steampowered.com/app/304430"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/inside.png" /></a>
-<a href="https://store.steampowered.com/app/48000"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/limbo.png" /></a>
-<a href="https://store.steampowered.com/app/239350/Spelunky/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/spelunky.png" /></a>
-<a href="https://store.steampowered.com/app/389140/Horizon_Chase_Turbo/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/hoziron chase turbo.png" /></a>
-<a href="https://store.steampowered.com/app/322500/SUPERHOT/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/superhot.png" /></a>
-
- 
-### - Want To Play:
-
-<a href="https://store.steampowered.com/app/524220"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/nier automata.png" /></a>
-<a href="https://store.steampowered.com/app/2138710"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/sifu.png" /></a>
-<a href="https://steamcommunity.com/app/312520"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/rain world.png" /></a>
-<a href="https://store.steampowered.com/app/356190/Middleearth_Shadow_of_War/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/middle earth.png" /></a>
-<a href="https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/theWitcher3.png" /></a>
-<a href="https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/dark souls.png" /></a>
-<a href="https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/sekiro.png" /></a>
-<a href="https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/return of the obra din.png" /></a>
-<a href="https://store.steampowered.com/app/460950/Katana_ZERO/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/katana zero.png" /></a>
-<a href="https://store.steampowered.com/app/1055540/A_Short_Hike/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/a short hike.png" /></a>
-<a href="https://steamcommunity.com/app/239030"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/papers please.png" /></a>
-<a href="https://store.steampowered.com/app/367520/Hollow_Knight/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/hollow knight.png" /></a>
-<a href="https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/ori and the will of the wisps.png" /></a>
-<a href="https://store.steampowered.com/app/257850"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/hyper light drifter.png" /></a>
-<a href="https://steamcommunity.com/app/311690"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/enter the gungeon.png" /></a>
-<a href="https://store.steampowered.com/app/632360/Risk_of_Rain_2/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/risk of rain 2.png" /></a>
-<a href="https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/the binding of isaac.png" /></a>
-<a href="https://store.steampowered.com/app/268910/Cuphead/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/Cuphead.png" /></a>
-
-
- 
-<br/>
-<br/>
-<hr/>
-<hr/>
-
-
 <div align="center">
 <img align="center" src="Resources/Linkedin Banner_07.png" /></a>
 </div>
@@ -288,6 +173,122 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
+<br/>
+<br/>
+
+## 🎮 My Favourit Games :
+
+### - I LOVE THESE ! Changed my life !!! 
+
+<a href="https://store.steampowered.com/app/413150/Stardew_Valley/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/stardew valley.png" /></a>
+<a href="https://store.steampowered.com/app/504230"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/celeste.png" /></a>
+<a href="https://store.steampowered.com/app/383870"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/fire watch.png" /></a>
+<a href="https://store.steampowered.com/app/201870/Assassins_Creed_Revelations/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC 2 Revelation.png" /></a>
+<a href="https://store.steampowered.com/app/638230"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/journey.png" /></a>
+
+### - Enjoyed playing: 
+
+<a href="https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC 1.png" /></a>
+<a href="https://store.steampowered.com/app/33230/Assassins_Creed_2/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC 2.png" /></a>
+<a href="https://store.steampowered.com/app/48190/Assassins_Creed_Brotherhood/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC 2 brotherhood.png" /></a>
+<a href="https://store.steampowered.com/app/242050/Assassins_Creed_IV_Black_Flag/?snr=1_7_7_151_150_1v"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC blackflag.png" /></a>
+<a href="https://store.steampowered.com/app/289650/Assassins_Creed_Unity/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC unity.png" /></a>
+<a href="https://store.steampowered.com/app/368500/Assassins_Creed_Syndicate/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC syndicate.png" /></a>
+<a href="https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/skyrim.png" /></a>
+<a href="https://store.steampowered.com/app/235460/METAL_GEAR_RISING_REVENGEANCE/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/MGS revengeance.png" /></a>
+<a href="https://store.steampowered.com/app/287700/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/MGSV.png" /></a>
+<a href="https://store.steampowered.com/app/329050/Devil_May_Cry_4_Special_Edition/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/DMC.png" /></a>
+<a href="https://store.steampowered.com/app/388410/Darksiders_II_Deathinitive_Edition/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/Darksiders2.png" /></a>
+<a href="https://store.steampowered.com/app/728880/Overcooked_2/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/overcooked2.png" /></a>
+<a href="https://store.steampowered.com/app/221910/The_Stanley_Parable/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/the stanley parable.png" /></a>
+<a href="https://store.steampowered.com/app/388880"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/oxenfree.png" /></a>
+<a href="https://store.steampowered.com/app/736260"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/baba is you.png" /></a>
+<a href="https://store.steampowered.com/app/590380"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/into the breach.png" /></a>
+<a href="https://store.steampowered.com/app/688420/Bad_North_Jotunn_Edition/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/bad north.png" /></a>
+<a href="https://store.steampowered.com/app/606150"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/moonlighter.png" /></a>
+<a href="https://store.steampowered.com/app/261570/Ori_and_the_Blind_Forest/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/ori and the blind forest.png" /></a>
+<a href="https://store.steampowered.com/app/304430"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/inside.png" /></a>
+<a href="https://store.steampowered.com/app/48000"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/limbo.png" /></a>
+<a href="https://store.steampowered.com/app/239350/Spelunky/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/spelunky.png" /></a>
+<a href="https://store.steampowered.com/app/389140/Horizon_Chase_Turbo/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/hoziron chase turbo.png" /></a>
+<a href="https://store.steampowered.com/app/322500/SUPERHOT/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/superhot.png" /></a>
+
+ 
+### - Want To Play:
+
+<a href="https://store.steampowered.com/app/524220"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/nier automata.png" /></a>
+<a href="https://store.steampowered.com/app/2138710"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/sifu.png" /></a>
+<a href="https://steamcommunity.com/app/312520"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/rain world.png" /></a>
+<a href="https://store.steampowered.com/app/356190/Middleearth_Shadow_of_War/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/middle earth.png" /></a>
+<a href="https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/theWitcher3.png" /></a>
+<a href="https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/dark souls.png" /></a>
+<a href="https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/sekiro.png" /></a>
+<a href="https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/return of the obra din.png" /></a>
+<a href="https://store.steampowered.com/app/460950/Katana_ZERO/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/katana zero.png" /></a>
+<a href="https://store.steampowered.com/app/1055540/A_Short_Hike/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/a short hike.png" /></a>
+<a href="https://steamcommunity.com/app/239030"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/papers please.png" /></a>
+<a href="https://store.steampowered.com/app/367520/Hollow_Knight/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/hollow knight.png" /></a>
+<a href="https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/ori and the will of the wisps.png" /></a>
+<a href="https://store.steampowered.com/app/257850"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/hyper light drifter.png" /></a>
+<a href="https://steamcommunity.com/app/311690"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/enter the gungeon.png" /></a>
+<a href="https://store.steampowered.com/app/632360/Risk_of_Rain_2/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/risk of rain 2.png" /></a>
+<a href="https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/the binding of isaac.png" /></a>
+<a href="https://store.steampowered.com/app/268910/Cuphead/"><img align="center" width="100" height="100"
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/Cuphead.png" /></a>
+
+
+ 
+<br/>
+<br/>
+
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
 
 
 ## ⚙️ Things I use to get stuff done:
@@ -308,11 +309,6 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
 
-
-
-
-
-<hr/>
 
 <div align="center">
     <a href="https://www.buymeacoffee.com/oknaa" target="_blank">
