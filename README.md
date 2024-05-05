@@ -145,10 +145,10 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 ## 📊 GitHub Stats: 
 
 <p align="center" >
+<!-- Hide untill it is full of juicy stats --> 
+<!--img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joknaa&theme=dracula" /-->   
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joknaa&theme=dracula" />
 
-<br/>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joknaa&theme=material-palenight&hide_border=false&hide_border=true" />
 <br/>
@@ -188,25 +188,26 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 	    <li><b>Best Indi games played:</b> Journey, Stardew Valley, Oxenfree, ...</li>
 	</ul>	
 
-<!-- 
-<details>	
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+<br/>
 <br/>
 
-<ul>
-	    <li><b>Phone: </b> Redmi Note 11: 6Gb/128GB </li>
-	    <li><b>Laptop: </b> FUJITSU LIFEBOOK E547</li>
-  	    <li><b>OS:</b> Windows 11 Pro Insider Preview Latest Build </li>
-  	    <li><b>Processor:</b> Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz   2.70 GHz </li>
-  	    <li><b>RAM:</b> 8 Gb </li>
-	    <li><b>Code Editor:</b> Intellij IDEA / Rider Ultimate (JetBrains).</li>
-	    <li><b>Game Engine:</b> Unity.</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Best Indi games played:</b> Journey, Stardew Valley, Oxenfree, ...</li>
-	</ul>	
-</details>
--->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🎮 Best indie games i played (Highly Recommended) :
+
+<a href="https://oknaa.itch.io/tictactoe">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/TicTacTo.png" width="100" height="100"/></a>
+<a href="https://oknaa.itch.io/taziri">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/Taziri.png" width="100" height="100"/></a>
+<a href="https://oknaa.itch.io/taziri">
+	<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/StickManHero.png" width="100" height="100"/></a>
+
+
 <br/>
+<br/>
+
+ --> 
+
 <hr/>
 
 <div align="center">
