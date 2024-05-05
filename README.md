@@ -1,30 +1,9 @@
-[I'm an inline-style link](https://www.somewebsite.com)
 
-[I'm an inline-style link with title](https://www.somewebsite.com "somewebsite's Homepage")
+## 🎮 My Favourit Games :
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+### - I LOVE THESE ! Changed my life !!! 
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself]
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.somewebsite.org
-[1]: http://somewebsite.org
-[link text itself]: http://www.somewebsite.com
-
-<br/>
-<hr/><hr/>
-<br/>
-
-
-## 👨🏻‍💻 Favourit Games :
-### - Changed my life !!!
-
-<a href="https://store.steampowered.com/app/413150?l=english&curator_clanid=33463073"><img align="center" width="100" height="100"
+<a href="https://store.steampowered.com/app/413150/Stardew_Valley/"><img align="center" width="100" height="100"
 	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/stardew valley.png" /></a>
 <a href="https://store.steampowered.com/app/504230"><img align="center" width="100" height="100"
 	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/celeste.png" /></a>
@@ -35,7 +14,7 @@ Some text to show that the reference links can follow later.
 <a href="https://store.steampowered.com/app/638230"><img align="center" width="100" height="100"
 	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/journey.png" /></a>
 
-### - Enjoyed
+### - Enjoyed playing: 
 
 <a href="https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/"><img align="center" width="100" height="100"
 	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/AC 1.png" /></a>
@@ -86,9 +65,8 @@ Some text to show that the reference links can follow later.
 <a href="https://store.steampowered.com/app/322500/SUPERHOT/"><img align="center" width="100" height="100"
 	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/superhot.png" /></a>
 
-
  
-### - Want To Play
+### - Want To Play:
 
 <a href="https://store.steampowered.com/app/524220"><img align="center" width="100" height="100"
 	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/nier automata.png" /></a>
@@ -330,7 +308,6 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
 
-## 🎮 Best indie games i played (Highly Recommended) :
 
 
 
