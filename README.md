@@ -23,13 +23,13 @@
 
 </p>
 
+<br/>
+<br/>
 
 <div align="center">
-	
-### Unity Game Designer, Developer, and Educator. Computer Science Engineer, and PhD student
-<br> 
-
-Check my [Jupithero](https://github.com/Jupithero) organization to see all of my game projects, any feedback is very welcomed :D  
+	 
+## Game **`Designer🎨`** , **`Developer👨‍💻`**, **`Educator👨‍🏫`**, and Computer Science **`Engineer👨‍💼`**.
+#### Check my [***Jupithero***](https://github.com/Jupithero) organization to see all of my game projects, any feedback is very welcomed :D  
 </div>
 
 
@@ -133,7 +133,11 @@ Check my [Jupithero](https://github.com/Jupithero) organization to see all of my
 
 <p align="center" >
 
-<img align="center" src="https://github-trophies.vercel.app/?username=joknaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA" >
+<img align="center" src="https://github-trophies.vercel.app/?username=joknaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&rank=SECRET&column=4" >
+<br/><br/>
+ 
+<img align="center" src="https://github-trophies.vercel.app/?username=joknaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&rank=SSS,SS,S,AAA,AA&column=4" >
+
 
 </p>
 
