@@ -305,7 +305,6 @@
 	    <li><b>Code Editor:</b> Intellij IDEA / Rider Ultimate (JetBrains).</li>
 	    <li><b>Game Engine:</b> Unity.</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Best Indi games played:</b> Journey, Stardew Valley, Oxenfree, ...</li>
 	</ul>	
 
 <br/>
