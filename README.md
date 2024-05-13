@@ -297,11 +297,9 @@
 
 ## ⚙️ Things I use to get stuff done:
 <ul>
-	    <li><b>Phone: </b> Redmi Note 11: 6Gb/128GB </li>
-	    <li><b>Laptop: </b> FUJITSU LIFEBOOK E547</li>
-  	    <li><b>OS:</b> Windows 11 Pro Insider Preview Latest Build </li>
-  	    <li><b>Processor:</b> Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz   2.70 GHz </li>
-  	    <li><b>RAM:</b> 8 Gb </li>
+	    <li><b>Phone: </b> Redmi Note 11, 6Gb/128GB </li>
+	    <li><b>Laptop: </b> FUJITSU LIFEBOOK E547, i5-7200U, 8GB/256GB</li>
+	    <li><b>Desktop: </b> HP ProDesk 400 G3 MT Business PC, i7-6700, 16GB/1Tb</li>
 	    <li><b>Code Editor:</b> Intellij IDEA / Rider Ultimate (JetBrains).</li>
 	    <li><b>Game Engine:</b> Unity.</li>
 	</ul>	
