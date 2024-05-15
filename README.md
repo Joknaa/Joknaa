@@ -135,7 +135,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center" >
-
+	
 <img align="center" src="https://github-trophies.vercel.app/?username=joknaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&rank=SECRET&column=4" >
 <br/><br/>
  
@@ -154,6 +154,7 @@
 <p align="center" >
 <!-- Hide untill it is full of juicy stats --> 
 <!--img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joknaa&theme=dracula" /-->   
+<!--img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joknaa&theme=github&hide_title=true&area=false&hide_border=true" -->
 
 
 
@@ -319,5 +320,7 @@
     </a>
 
 ### Show some ❤️ by following and starring some repositories!
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
   
