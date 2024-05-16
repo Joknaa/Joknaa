@@ -24,13 +24,21 @@
 </p>
 
 <br/>
-<br/>
 
 <div align="center">
 	 
-## Game **`Designer🎨`** , **`Developer👨‍💻`**, **`Educator👨‍🏫`**, and Computer Science **`Engineer👨‍💼`**.
-#### Check my [***Jupithero***](https://github.com/Jupithero) organization to see all of my game projects, any feedback is very welcomed :D  
+## Game **`Designer🎨`** , **`Developer👨‍💻`**, **`Educator👨‍🏫`**, and Computer Science **`Engineer👨‍💼`**
+### Feel free to check my organizations **`JH Games🎮`** and **`JH Assets⚒️`** 
+
+
+
+<a href="https://github.com/JH-Games">
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/Organizations/JH-Games-Logo.png" width="200" height="200"/></a>
+<a href="https://github.com/JH-Assets">
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/Organizations/JH-Assets-Logo.png" width="200" height="200"/></a>
+
 </div>
+
 
 
 <br/>
