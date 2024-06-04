@@ -178,6 +178,13 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+Unity Scene   31 hrs 15 mins  ██████████████░░░░░░░░░░░   56.27 %
+C#            24 hrs 17 mins  ███████████░░░░░░░░░░░░░░   43.72 %
+Csproj        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+XML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center" >
