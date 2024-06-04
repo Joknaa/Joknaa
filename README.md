@@ -1,6 +1,9 @@
 <div align="center">
 <img align="center" src="Resources/Linkedin Banner_07.png" /></a>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
      
     
 <p align="center">
