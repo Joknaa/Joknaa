@@ -2,16 +2,7 @@
 <img align="center" src="Resources/Linkedin Banner_07.png" /></a>
 </div>
 
-<!--START_SECTION:waka-->
 
-```txt
-Unity Scene   31 hrs 15 mins  ██████████████░░░░░░░░░░░   56.27 %
-C#            24 hrs 17 mins  ███████████░░░░░░░░░░░░░░   43.72 %
-Csproj        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-XML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
      
     
 <p align="center">
@@ -186,10 +177,15 @@ XML           0 secs          ░░░░░░░░░░░░░░░░�
 
 ## 📊 GitHub Stats: 
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <p align="center" >
 <!-- Hide untill it is full of juicy stats --> 
 <!--img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joknaa&theme=dracula" /-->   
 <!--img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joknaa&theme=github&hide_title=true&area=false&hide_border=true" -->
+
 
 
 
