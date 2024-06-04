@@ -29,15 +29,7 @@ jobs:
           LANG_COUNT: 2 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          SHOW_MASKED_TIME: true # optional
+          IGNORED_LANGUAGES: Csproj XML # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: YOUR_NAME # optional
-          AUTHOR_EMAIL: YOUR@EMAIL.com # optional
-          # you can populate email-id with secrets instead
