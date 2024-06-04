@@ -2,11 +2,6 @@
 <img align="center" src="Resources/Linkedin Banner_07.png" /></a>
 </div>
 
-<!--START_SECTION:waka-->
-
-
-
-<!--END_SECTION:waka-->
      
     
 <p align="center">
@@ -181,10 +176,15 @@
 
 ## 📊 GitHub Stats: 
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <p align="center" >
 <!-- Hide untill it is full of juicy stats --> 
 <!--img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joknaa&theme=dracula" /-->   
 <!--img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joknaa&theme=github&hide_title=true&area=false&hide_border=true" -->
+
 
 
 
