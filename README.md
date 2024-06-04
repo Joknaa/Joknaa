@@ -2,11 +2,11 @@
 <img align="center" src="Resources/Linkedin Banner_07.png" /></a>
 </div>
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka-simple-->
 
 
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka-simple-->
      
     
 <p align="center">
