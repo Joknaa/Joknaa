@@ -178,11 +178,13 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-Unity Scene   31 hrs 15 mins  ██████████████░░░░░░░░░░░   56.27 %
-C#            24 hrs 17 mins  ███████████░░░░░░░░░░░░░░   43.72 %
-Csproj        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-XML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```c#
+From: 27 May 2024 - To: 03 June 2024
+
+Total Time: 55 hrs 33 mins
+
+Unity Scene   31 hrs 15 mins  >>>>>>>>>>>>>>-----------   56.27 %
+C#            24 hrs 17 mins  >>>>>>>>>>>--------------   43.72 %
 ```
 
 <!--END_SECTION:waka-->
