@@ -34,9 +34,7 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-
+ 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
 
@@ -195,16 +193,13 @@ C#            24 hrs 17 mins  >>>>>>>>>>>--------------   43.72 %
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joknaa&theme=github&hide_title=true&area=false&hide_border=true" -->
 
 
-
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=joknaa&theme=material-palenight&hide_title=true&hide_border=true&include_all_commits=true&&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joknaa&execlud=PyGameJam&langs_count=6&layout=compact&hide=html,ShaderLab,hlsl,python&theme=material-palenight&hide_border=true" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joknaa&theme=material-palenight&hide_border=false&hide_border=true" />
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joknaa&theme=material-palenight&hide_title=true&hide_border=true&include_all_commits=true&&count_private=true" />
-
-
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joknaa&execlud=PyGameJam&langs_count=6&layout=compact&hide=html,ShaderLab,hlsl,python&theme=material-palenight&hide_border=true" />
 
 </p>
 
