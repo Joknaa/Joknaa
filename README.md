@@ -192,7 +192,7 @@ C#            24 hrs 17 mins  >>>>>>>>>>>--------------   43.72 %
 <p align="center" >
 <!-- Hide untill it is full of juicy stats --> 
 <!--img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joknaa&theme=dracula" /-->   
-<!--img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joknaa&theme=github&hide_title=true&area=false&hide_border=true" -->
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joknaa&theme=github&hide_title=true&area=false&hide_border=true" -->
 
 
 
