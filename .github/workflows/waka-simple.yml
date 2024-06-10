@@ -24,9 +24,9 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
+          BLOCKS: ░▒▓█ # optional
           CODE_LANG: c# # optional
-          TIME_RANGE: last_7_days # optional
+          TIME_RANGE: last_30_days # optional
           LANG_COUNT: 2 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
