@@ -177,12 +177,12 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 11 May 2024 - To: 10 June 2024
+From: 12 May 2024 - To: 11 June 2024
 
-Total Time: 193 hrs 59 mins
+Total Time: 203 hrs 9 mins
 
-Unity Scene     98 hrs 44 mins  ████████████▓░░░░░░░░░░░░   50.90 %
-C#              93 hrs 33 mins  ████████████░░░░░░░░░░░░░   48.23 %
+Unity Scene     107 hrs 7 mins  █████████████▒░░░░░░░░░░░   52.73 %
+C#              94 hrs 21 mins  ███████████▓░░░░░░░░░░░░░   46.45 %
 ```
 
 <!--END_SECTION:waka-->
