@@ -25,7 +25,7 @@
 </p>
  
 <br/>
- 
+  
 <div align="center">
 	 
 # Game **`Designer🎨`** , **`Developer👨‍💻`**, and **`Educator👨‍🏫`**. <br/> Computer Science **`Engineer👨‍💼`**
