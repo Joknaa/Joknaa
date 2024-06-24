@@ -18,9 +18,12 @@
 <a href="https://open.spotify.com/user/31ivnhgqyntjjxny7wyeets7zcli">  <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 <a href="https://www.goodreads.com/user/show/110564911-oknaa">  <img align="center" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" /></a>
 <a href="https://steamcommunity.com/id/Oknaa/">  <img align="center" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></a>
-<br/>
+<br/><br/>
 <img align="center" src="https://komarev.com/ghpvc/?username=joknaa&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
-<!--img align="center" src="https://img.shields.io/github/followers/joknaa?label=Github&style=flat-square" /-->
+<img align="center" src="https://img.shields.io/github/followers/joknaa?label=Followers&style=for-the-badge" />
+	<br/>
+<img align="center" src="https://wakatime.com/badge/user/71c22a3b-a6e8-4c46-bef5-1983308ef7cf.svg" />
+
 
 </p>
  
@@ -162,7 +165,7 @@
 <img align="center" src="https://github-trophies.vercel.app/?username=joknaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&rank=SECRET&column=4" >
 <br/><br/>
  
-<img align="center" src="https://github-trophies.vercel.app/?username=joknaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&rank=SSS,SS,S,AAA,AA&column=4" >
+<img align="center" src="https://github-trophies.vercel.app/?username=joknaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&rank=SSS,SS,S,AAA,AA&column=4&row=1" >
 
 
 </p>
@@ -190,7 +193,7 @@ C#                     74 hrs 29 mins  ███████████▓░�
 <p align="center" >
 <!-- Hide untill it is full of juicy stats --> 
 <!--img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joknaa&theme=dracula" /-->   
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joknaa&theme=github&hide_title=true&area=false&hide_border=true" -->
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joknaa&theme=github&hide_title=true&area=false&hide_border=true" >
 
 
 <br/>
