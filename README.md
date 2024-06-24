@@ -177,6 +177,9 @@
 
 ## 📊 GitHub Stats: 
 
+<!--START_SECTION:waka-Readme-->
+<!--END_SECTION:waka-Readme-->
+
 <!--START_SECTION:waka-->
 
 ```c#
