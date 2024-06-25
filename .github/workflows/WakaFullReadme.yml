@@ -15,10 +15,10 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY_FULL_README }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: waka-Readme # optional
-          SHOW_DAYS_OF_WEEK: false
           SHOW_COMMIT: True
-          SHOW_LANGUAGE: false
-          SHOW_EDITORS: false
+          SHOW_LANGUAGE: True
+          SHOW_EDITORS: True
+          SHOW_DAYS_OF_WEEK: false
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_OS: false
           SHOW_PROJECTS: false
