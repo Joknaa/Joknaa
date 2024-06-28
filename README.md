@@ -86,17 +86,17 @@
 
 <!--a href="https://play.google.com/store/apps/details?id=com.acrabstudio.castlesiegeprincessrescue">
 <img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/Castle Siege.png" width="100" height="100"/></a-->
-<a href="https://play.google.com/store/apps/details?id=com.acrabstudio.infantsittersaga">
+<a href="https://oknaa.itch.io/infant-sitter">
 <img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/infantSitter.png" width="100" height="100"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.acrab.emojilevelingrunner">
+<a href="https://oknaa.itch.io/emoji-leveling-runner">
 <img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/EmogiLeveling.png" width="100" height="100"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.acrab.zombiewarz">
+<a href="https://oknaa.itch.io/zombie-war-z">
 <img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/WarLordZ.png" width="100" height="100"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.acrab.baradventureidle">
+<a href="https://oknaa.itch.io/barventure">
 <img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/BarVenture.jpg" width="100" height="100"/></a> 
-<a href="https://play.google.com/store/apps/details?id=com.acrab.mergingcars">
+<a href="https://oknaa.itch.io/idle-merging-cars-racers">
 <img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/MergingCars.png" width="100" height="100"/></a> 
-<a href="https://play.google.com/store/apps/details?id=com.acrab.slingnightdrift">
+<a href="https://oknaa.itch.io/rope-cars">
 <img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/SlimNightDrift.png" width="100" height="100"/></a>
 <a href="https://oknaa.itch.io/chicken-slap-cook">
 <img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/SlapCook.png" width="100" height="100"/></a>
