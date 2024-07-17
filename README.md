@@ -12,8 +12,10 @@
 <a href="https://oknaa.itch.io">  <img align="center" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/Oknaa">  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <br/>
-<a href="https://discord.com/invite/tHe3QxFJ">  <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:mohammadLaadidaoui@gmail.com">  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://discord.com/invite/tHe3QxFJ">  <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://api.whatsapp.com/send?phone=212708008065&text=Hello ! I hope you're having a good day. Do you have a minute %3F">  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
 <br/>
 <a href="https://open.spotify.com/user/31ivnhgqyntjjxny7wyeets7zcli">  <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 <a href="https://www.goodreads.com/user/show/110564911-oknaa">  <img align="center" src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" /></a>
