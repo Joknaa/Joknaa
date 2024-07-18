@@ -254,20 +254,20 @@ Unity Scene   54 hrs 40 mins  ████████████░░░░�
 ### - I LOVE THESE ! Changed my life !!! 
 
 <a href="https://store.steampowered.com/app/413150/Stardew_Valley/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/256/stardew valley.png" /></a>
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/stardew valley.png" /></a>
 <a href="https://store.steampowered.com/app/504230"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/256/celeste.png" /></a>
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/celeste.png" /></a>
 <a href="https://store.steampowered.com/app/383870"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/256/fire watch.png" /></a>
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/fire watch.png" /></a>
 <a href="https://store.steampowered.com/app/201870/Assassins_Creed_Revelations/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/256/AC 2 Revelation.png" /></a>
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/AC 2 Revelation.png" /></a>
 <a href="https://store.steampowered.com/app/638230"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/256/journey.png" /></a>
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/journey.png" /></a>
 
 ### - Enjoyed playing: 
 
 <a href="https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/256/AC 1.png" /></a>
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/AC 1.png" /></a>
 <a href="https://store.steampowered.com/app/33230/Assassins_Creed_2/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
 	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/AC 2.png" /></a>
 <a href="https://store.steampowered.com/app/48190/Assassins_Creed_Brotherhood/?snr=1_7_7_151_150_1"><img align="center" width="100" height="100"
