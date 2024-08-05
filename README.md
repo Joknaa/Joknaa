@@ -1,4 +1,4 @@
-q<div align="center">
+<div align="center">
 <img align="center" src="Resources/Linkedin Banner_07.png" /></a>
 </div>
       
