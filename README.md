@@ -210,7 +210,7 @@ Unity                    4 hrs 32 mins       ██████░░░░░�
 <!--START_SECTION:waka-->
 
 ```c#
-From: 15 July 2024 - To: 14 August 2024
+From: 16 July 2024 - To: 15 August 2024
 
 Total Time: 41 hrs 13 mins
 
