@@ -205,12 +205,12 @@ No Activity Tracked This Week
 <!--START_SECTION:waka-->
 
 ```c#
-From: 26 July 2024 - To: 25 August 2024
+From: 27 July 2024 - To: 26 August 2024
 
-Total Time: 36 hrs 36 mins
+Total Time: 46 hrs 30 mins
 
-C#               30 hrs 18 mins  ████████████████████▓░░░░   82.78 %
-Unity Scene      6 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+C#               37 hrs 48 mins  ████████████████████▒░░░░   81.30 %
+Unity Scene      8 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
 ```
 
 <!--END_SECTION:waka-->
