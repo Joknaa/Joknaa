@@ -1,7 +1,8 @@
 <div align="center">
 <img align="center" src="Resources/Linkedin Banner_07.png" /></a>
 </div>       
-                             
+
+                          
 <p align="center">
 <!--a href="https://hyperskill.org/profile/70430298">  <img align="center" src="https://img.shields.io/badge/Hyperskill-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=000000" /> </a-->
 <!--a href="https://joknaa.github.io"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a-->
@@ -179,43 +180,18 @@
 ## 📊 GitHub Stats: 
 
 <!--START_SECTION:waka-Readme-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1043 commits        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-🌆 Daytime                2144 commits        ██████████░░░░░░░░░░░░░░░   41.71 % 
-🌃 Evening                1737 commits        ████████░░░░░░░░░░░░░░░░░   33.79 % 
-🌙 Night                  216 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C#                       29 hrs 31 mins      ███████████████░░░░░░░░░░   61.95 % 
-Unity Scene              18 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
-UnityYaml                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Csproj                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🔥 Editors: 
-Jetbrainsrider           29 hrs 37 mins      ████████████████░░░░░░░░░   62.15 % 
-Unity                    18 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
-```
-
 
 <!--END_SECTION:waka-Readme-->
 
 <!--START_SECTION:waka-->
 
 ```c#
-From: 04 August 2024 - To: 03 September 2024
+From: 10 August 2024 - To: 09 September 2024
 
-Total Time: 88 hrs 3 mins
+Total Time: 121 hrs 7 mins
 
-C#               61 hrs 24 mins  █████████████████▒░░░░░░░   69.73 %
-Unity Scene      26 hrs 6 mins   ███████▒░░░░░░░░░░░░░░░░░   29.64 %
+C#              86 hrs 10 mins  █████████████████▓░░░░░░░   71.15 %
+Unity Scene     34 hrs 32 mins  ███████░░░░░░░░░░░░░░░░░░   28.51 %
 ```
 
 <!--END_SECTION:waka-->
