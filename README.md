@@ -1,8 +1,8 @@
 <div align="center">
 <img align="center" src="Resources/Linkedin Banner_07.png" /></a>
 </div>       
-  
-                          
+ 
+                           
 <p align="center">
 <!--a href="https://hyperskill.org/profile/70430298">  <img align="center" src="https://img.shields.io/badge/Hyperskill-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=000000" /> </a-->
 <!--a href="https://joknaa.github.io"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a-->
@@ -186,12 +186,12 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 16 August 2024 - To: 15 September 2024
+From: 13 August 2024 - To: 12 September 2024
 
-Total Time: 126 hrs 50 mins
+Total Time: 128 hrs 46 mins
 
-C#              88 hrs 59 mins  █████████████████▓░░░░░░░   70.17 %
-Unity Scene     37 hrs 3 mins   ███████▒░░░░░░░░░░░░░░░░░   29.22 %
+C#              89 hrs 23 mins  █████████████████▒░░░░░░░   69.41 %
+Unity Scene     38 hrs 37 mins  ███████▒░░░░░░░░░░░░░░░░░   29.99 %
 ```
 
 <!--END_SECTION:waka-->
