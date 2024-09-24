@@ -323,7 +323,7 @@ Unity Scene     71 hrs 23 mins  █████████▒░░░░░░
 <a href="https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps/"><img align="center" width="100" height="100"
 	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/ori and the will of the wisps.png" /></a>
 <a href="https://store.steampowered.com/app/257850"><img align="center" width="100" height="100"
-	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/hyper light drifter.png" /></a>
+	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/hyper light drifter.png" /></a> 
 <a href="https://steamcommunity.com/app/311690"><img align="center" width="100" height="100"
 	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/enter the gungeon.png" /></a>
 <a href="https://store.steampowered.com/app/632360/Risk_of_Rain_2/"><img align="center" width="100" height="100"
@@ -334,7 +334,7 @@ Unity Scene     71 hrs 23 mins  █████████▒░░░░░░
 	src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/GameIcons/256/Cuphead.png" /></a>
 
  
-   
+    
 <br/>  
 <br/>
  
