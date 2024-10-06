@@ -1,6 +1,6 @@
 <div align="center">
 <img align="center" src="Resources/Linkedin Banner_07.png" /></a>
-</div>          
+</div>           
            
                                  
 <p align="center">
