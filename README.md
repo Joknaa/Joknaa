@@ -1,7 +1,7 @@
 <div align="center">
 <img align="center" src="Resources/Linkedin Banner_07.png" /></a>
 </div>            
-                          
+                           
                                             
 <p align="center">
 <!--a href="https://hyperskill.org/profile/70430298">  <img align="center" src="https://img.shields.io/badge/Hyperskill-informational?style=flat&logo=/Images/unity.svg&logoColor=white&color=000000" /> </a-->
