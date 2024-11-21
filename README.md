@@ -186,12 +186,12 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 20 October 2024 - To: 19 November 2024
+From: 21 October 2024 - To: 20 November 2024
 
-Total Time: 102 hrs 34 mins
+Total Time: 111 hrs 38 mins
 
-C#               57 hrs 29 mins  ██████████████░░░░░░░░░░░   56.05 %
-Unity Scene      44 hrs 11 mins  ██████████▓░░░░░░░░░░░░░░   43.09 %
+C#               60 hrs 23 mins  █████████████▓░░░░░░░░░░░   54.09 %
+Unity Scene      50 hrs 21 mins  ███████████▒░░░░░░░░░░░░░   45.11 %
 ```
 
 <!--END_SECTION:waka-->
