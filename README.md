@@ -186,7 +186,7 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 18 December 2024 - To: 17 January 2025
+From: 19 December 2024 - To: 18 January 2025
 
 Total Time: 198 hrs 41 mins
 
