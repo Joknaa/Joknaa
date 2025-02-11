@@ -186,12 +186,12 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 11 January 2025 - To: 10 February 2025
+From: 10 January 2025 - To: 09 February 2025
 
-Total Time: 149 hrs 59 mins
+Total Time: 139 hrs 7 mins
 
-C#              112 hrs 20 mins ██████████████████▓░░░░░░   74.90 %
-Unity Scene     35 hrs 34 mins  ██████░░░░░░░░░░░░░░░░░░░   23.72 %
+C#              105 hrs 29 mins ███████████████████░░░░░░   75.82 %
+Unity Scene     31 hrs 34 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
 ```
 
 <!--END_SECTION:waka-->
@@ -344,9 +344,9 @@ Unity Scene     35 hrs 34 mins  ██████░░░░░░░░░░
 
 ## ⚙️ Things I use to get stuff done:
 <ul>
-	    <li><b>Phone: </b> Redmi Note 11, 6Gb/128GB </li>
-	    <li><b>Laptop: </b> FUJITSU LIFEBOOK E547, i5-7200U, 8GB/256GB</li>
-	    <li><b>Desktop: </b> HP ProDesk 400 G3 MT Business PC, i7-6700, 32GB/512GBHDD+256DGSSD</li>
+	    <li><b>Phone: </b> Redmi Note 11, 6GBRAM, 128GB </li>
+	    <li><b>Laptop: </b> FUJITSU LIFEBOOK E547, i5-7200U, 8GBRAM, 256GBSSD</li>
+	    <li><b>Desktop: </b> HP ProDesk 400 G3 MT Business PC, i7-6700, 32GBRAM, 512GBHDD+256GBSSD</li>
 	    <li><b>Code Editor:</b> Intellij IDEA / Rider Ultimate (JetBrains).</li>
 	    <li><b>Game Engine:</b> Unity.</li>
 	</ul>	
