@@ -186,12 +186,12 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 29 March 2025 - To: 27 April 2025
+From: 30 March 2025 - To: 28 April 2025
 
-Total Time: 100 hrs 33 mins
+Total Time: 111 hrs 44 mins
 
-C#              57 hrs 12 mins  ██████████████▒░░░░░░░░░░   56.89 %
-Unity Scene     42 hrs 39 mins  ██████████▓░░░░░░░░░░░░░░   42.42 %
+C#              64 hrs 20 mins  ██████████████▒░░░░░░░░░░   57.59 %
+Unity Scene     46 hrs 30 mins  ██████████▒░░░░░░░░░░░░░░   41.62 %
 ```
 
 <!--END_SECTION:waka-->
