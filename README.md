@@ -14,7 +14,7 @@
 <br/>
 <a href="mailto:mohammadLaadidaoui@gmail.com">  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://discord.com/invite/tHe3QxFJ">  <img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://api.whatsapp.com/send?phone=212708008065&text=Hello ! I hope you're having a good day. Do you have a minute %3F">  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<!--a href="https://api.whatsapp.com/send?phone=212708xxxxxxx&text=Hello ! I hope you're having a good day. Do you have a minute %3F">  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a-->
 
 <br/>
 <a href="https://open.spotify.com/user/31ivnhgqyntjjxny7wyeets7zcli">  <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
