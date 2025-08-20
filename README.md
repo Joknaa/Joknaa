@@ -186,7 +186,7 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 19 July 2025 - To: 18 August 2025
+From: 20 July 2025 - To: 19 August 2025
 
 Total Time: 135 hrs 36 mins
 
