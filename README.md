@@ -186,12 +186,12 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 19 August 2025 - To: 18 September 2025
+From: 20 August 2025 - To: 19 September 2025
 
-Total Time: 198 hrs 5 mins
+Total Time: 213 hrs 22 mins
 
-C#               129 hrs 50 mins ████████████████▒░░░░░░░░   65.54 %
-Unity Scene      65 hrs 17 mins  ████████▒░░░░░░░░░░░░░░░░   32.96 %
+C#               141 hrs 52 mins ████████████████▓░░░░░░░░   66.49 %
+Unity Scene      68 hrs 32 mins  ████████░░░░░░░░░░░░░░░░░   32.12 %
 ```
 
 <!--END_SECTION:waka-->
