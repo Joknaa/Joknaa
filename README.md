@@ -186,12 +186,12 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 06 September 2025 - To: 06 October 2025
+From: 07 September 2025 - To: 07 October 2025
 
-Total Time: 338 hrs 9 mins
+Total Time: 342 hrs 33 mins
 
-C#            256 hrs 7 mins  ███████████████████░░░░░░   75.74 %
-Unity Scene   77 hrs 30 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
+C#            262 hrs 28 mins ███████████████████░░░░░░   76.62 %
+Unity Scene   75 hrs 34 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
 ```
 
 <!--END_SECTION:waka-->
