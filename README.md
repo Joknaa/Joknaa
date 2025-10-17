@@ -342,10 +342,10 @@ Unity Scene      57 hrs 49 mins  █████▒░░░░░░░░░�
 
 ## ⚙️ Things I use to get stuff done:
 <ul>
-	    <li><b>Phone: </b> Redmi Note 11, 6GBRAM, 128GB </li>
+	    <li><b>Phone: </b> Redmi Note 14S, 8GBRAM, 256GB </li>
 	    <li><b>Laptop: </b> FUJITSU LIFEBOOK E547, i5-7200U, 8GBRAM, 256GBSSD</li>
 	    <li><b>Desktop: </b> HP ProDesk 400 G3 MT Business PC, i7-6700, 32GBRAM, 512GBHDD+256GBSSD</li>
-	    <li><b>Code Editor:</b> Intellij IDEA / Rider Ultimate (JetBrains).</li>
+	    <li><b>Code Editor:</b> JetBrains Rider Ultimate.</li>
 	    <li><b>Game Engine:</b> Unity.</li>
 	</ul>	
 
