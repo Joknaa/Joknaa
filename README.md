@@ -188,8 +188,8 @@ From: 17 January 2026 - To: 16 February 2026
 
 Total Time: 79 hrs 6 mins
 
-Unity Scene      42 hrs 34 mins  █████████████▒░░░░░░░░░░░   53.82 %
-C#               35 hrs 16 mins  ███████████░░░░░░░░░░░░░░   44.60 %
+Unity Scene      42 hrs 34 mins        █████████████▒░░░░░░░░░░░   53.82 %
+C#               35 hrs 16 mins        ███████████░░░░░░░░░░░░░░   44.60 %
 ```
 
 <!--END_SECTION:waka-->
