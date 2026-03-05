@@ -184,12 +184,12 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 01 February 2026 - To: 03 March 2026
+From: 02 February 2026 - To: 04 March 2026
 
-Total Time: 98 hrs 38 mins
+Total Time: 105 hrs 52 mins
 
-C#            54 hrs 1 min          █████████████▓░░░░░░░░░░░   54.77 %
-Unity Scene   43 hrs 25 mins        ███████████░░░░░░░░░░░░░░   44.01 %
+C#            60 hrs 58 mins        ██████████████▒░░░░░░░░░░   57.59 %
+Unity Scene   43 hrs 41 mins        ██████████▒░░░░░░░░░░░░░░   41.27 %
 ```
 
 <!--END_SECTION:waka-->
