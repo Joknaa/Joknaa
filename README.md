@@ -184,11 +184,11 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 24 March 2026 - To: 23 April 2026
+From: 25 March 2026 - To: 24 April 2026
 
-Total Time: 77 hrs 44 mins
+Total Time: 77 hrs 42 mins
 
-C#              74 hrs 32 mins        ████████████████████████░   95.88 %
+C#              74 hrs 30 mins        ████████████████████████░   95.88 %
 UnityYaml       3 hrs 4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
