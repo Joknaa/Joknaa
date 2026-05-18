@@ -186,10 +186,10 @@
 ```c#
 From: 16 April 2026 - To: 16 May 2026
 
-Total Time: 60 hrs 45 mins
+Total Time: 60 hrs 55 mins
 
-C#          58 hrs 7 mins         ████████████████████████░   95.66 %
-UnityYaml   2 hrs 31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+C#          58 hrs 17 mins        ████████████████████████░   95.67 %
+UnityYaml   2 hrs 31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 ```
 
 <!--END_SECTION:waka-->
