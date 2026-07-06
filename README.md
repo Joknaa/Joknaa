@@ -147,6 +147,10 @@
 <a href="https://www.credly.com/badges/6aa9b6eb-d740-4f21-bbe7-104a6415ca70">
 <img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/Badges/unity-junior-programmer.png" width="150" height="150"/></a> 
 
+
+<a href="https://www.credly.com/badges/6aa9b6eb-d740-4f21-bbe7-104a6415ca70">
+<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/Badges/unity-vr-developer.png" width="150" height="150"/></a> 
+
 </p>
 
 
