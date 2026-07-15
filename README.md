@@ -32,8 +32,8 @@
 <br/>
   
 <div align="center">
-	 
-# Game **`Designer🎨`** , **`Developer👨‍💻`**, and **`Educator👨‍🏫`**. <br/> Computer Science **`Engineer👨‍💼`**
+	
+# Unity **`Software Engineer👷🏻‍♂️`** specializes in **`Gameplay Systems⚙️`**, **`Multiplayer🤼‍♂️`**, **`XR🥽`**, and **`Developer Tools🛠️`**.
 
 </div>
 
@@ -42,7 +42,7 @@
  
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
-
+<!--
 ## 🌐 My Organizations :
 
 <div align="center">
