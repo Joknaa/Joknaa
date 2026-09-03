@@ -188,11 +188,11 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 02 August 2026 - To: 01 September 2026
+From: 03 August 2026 - To: 02 September 2026
 
-Total Time: 131 hrs 20 mins
+Total Time: 128 hrs 18 mins
 
-C#          131 hrs 16 mins       █████████████████████████   99.95 %
+C#          128 hrs 14 mins       █████████████████████████   99.95 %
 UnityYaml   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
