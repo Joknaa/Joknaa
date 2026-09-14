@@ -188,12 +188,12 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 13 August 2026 - To: 12 September 2026
+From: 14 August 2026 - To: 13 September 2026
 
-Total Time: 87 hrs 43 mins
+Total Time: 85 hrs 13 mins
 
-C#               86 hrs 30 mins        ████████████████████████▓   98.62 %
-GitIgnore file   36 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+C#               83 hrs 37 mins        ████████████████████████▓   98.13 %
+UnityYaml        58 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
