@@ -188,12 +188,12 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 23 August 2026 - To: 22 September 2026
+From: 24 August 2026 - To: 23 September 2026
 
-Total Time: 63 hrs 45 mins
+Total Time: 60 hrs 5 mins
 
-C#               61 hrs 50 mins        ████████████████████████▒   96.99 %
-UnityYaml        58 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+C#               58 hrs 10 mins        ████████████████████████▒   96.80 %
+UnityYaml        58 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
