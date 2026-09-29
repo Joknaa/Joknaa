@@ -188,7 +188,7 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 28 August 2026 - To: 27 September 2026
+From: 29 August 2026 - To: 28 September 2026
 
 Total Time: 56 hrs 35 mins
 
