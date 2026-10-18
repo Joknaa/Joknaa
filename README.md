@@ -188,12 +188,12 @@
 <!--START_SECTION:waka-->
 
 ```c#
-From: 16 September 2026 - To: 16 October 2026
+From: 17 September 2026 - To: 17 October 2026
 
-Total Time: 38 hrs 29 mins
+Total Time: 34 hrs 23 mins
 
-C#               34 hrs 42 mins        ██████████████████████▓░░   90.16 %
-Other            1 hr 2 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+C#               30 hrs 36 mins        ██████████████████████▒░░   88.99 %
+Other            1 hr 2 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
